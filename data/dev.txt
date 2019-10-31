@@ -1,0 +1,83 @@
+Take care.	照顾好自己。
+Wait here.	在这等着。
+Well done!	做得好！
+He pressured me.	他向我施压。
+He studied hard.	他努力學習。
+He tends to lie.	他企图说谎。
+He tires easily.	他很容易觉得累。
+He was very old.	他很老。
+Do you have a TV?	你有电视吗？
+Do you have kids?	你們有小孩嗎?
+Do you like snow?	你喜欢雪吗？
+Do you live here?	你住這裡嗎?
+Do you need help?	你需要幫助嗎？
+Do you own a gun?	你拥有枪支吗？
+Do you trust her?	你相信她嗎?
+She's my classmate.	她是我的同學。
+That's a good idea.	那是一個好主意。
+That's a good plan.	那是一個很好的計劃。
+Tom died in battle.	湯姆在戰鬥中死了。
+I built a new house.	我盖了栋新房子。
+I can come at three.	我三點鐘可以來。
+When will you leave?	你什么时候离开？
+She's very beautiful.	她非常漂亮。
+Should we be worried?	我們應該要擔心嗎？
+Some bugs were fixed.	一些程式錯誤被改正了。
+Your answer is wrong.	你的回答是错的。
+Your dog is very big.	您的狗非常胖。
+Your dog is very big.	你的狗非常胖。
+That is useless to me.	那對我沒有用處。
+That looks like blood.	那看起来像血。
+Tom doesn't have a dad.	汤姆没有父亲。
+Tom has Mary's address.	汤姆有玛丽的地址。
+Do you think I can help?	你认为我能帮忙吗？
+Do you think I'm joking?	你觉得我是在开玩笑吗？
+Do you think I'm stupid?	你認為我傻嗎？
+Do you want to die here?	你想死在這裡嗎？
+Tom played with his dog.	汤姆和他的狗玩。
+There is a spoon missing.	缺一把勺子。
+There isn't any solution.	无解。
+There's been an accident.	曾經有一個意外。
+I have a pair of red shoes.	我有一双红鞋子。
+I have more money than Tom.	我比汤姆有钱。
+She ran as fast as possible.	她盡可能地快跑。
+She remained silent all day.	她一整天都沉默不语。
+She rides a motorcycle well.	她骑摩托车的技术不错！
+Tom is now living in Boston.	汤姆现在住在波士顿。
+Tom is quite thin, isn't he?	汤姆真瘦，不是么？
+Tom is very important to me.	汤姆对我来说很重要。
+Tom isn't feeling very well.	湯姆感覺不太好。
+Are you free tomorrow evening?	你明晚有空嗎？
+Are you planning to help them?	你打算幫助他們嗎？
+Are you staying at this hotel?	你住在這家旅館嗎？
+Where should I put my laundry?	我應該把我要洗的衣服放在哪裡?
+Where will the bus pick us up?	巴士會在哪裡接我們？
+Where's the nearest drugstore?	最近的藥店在哪裡？
+It is going to be cold tonight.	今晚會很冷。
+It is no use worrying about it.	擔心它是沒有用的。
+It is our duty to obey the law.	遵守法律是我們的義務。
+It is really time for us to go.	这真是我们该走的时候了。
+It is rude to stare at someone.	盯著別人看是不禮貌的。
+My sister is playing with a doll.	我妹妹正在玩洋娃娃。
+Never forget to put out the fire.	永遠不要忘記關火。
+Would you please take my picture?	請你幫我照相好嗎？
+Would you please tell me the way?	請你告訴我路怎麼走好嗎？
+You can call me anytime you like.	你喜欢什么时候打给我就什么时候打。
+You can dig dirt from the ground.	你可以在地上挖土。
+I don't mind if the weather is hot.	天气热点儿没关系。
+I don't plan to stay for very long.	我沒有打算停留太久。
+I don't remember where I bought it.	我记不起来我在哪里买的了。
+I don't think Tom understands that.	我不認為湯姆明白。
+I don't think she can speak French.	我認為她不會講法語。
+She doesn't have a driver's license.	她没有驾照。
+She dreamed that she was a princess.	她梦见她是一个公主。
+He selected a Christmas gift for her.	他給她選了件聖誕禮物。
+He told his son an interesting story.	他給他兒子講了一個有趣的故事。
+He took a quick look at the magazine.	他迅速瞥了一眼杂志。
+He tried to unify the various groups.	他試著統一不同的團體。
+I asked the boy to throw the ball back.	我請這個男孩把球扔回來。
+I buy donuts every Sunday after church.	我每个星期日礼拜完都买甜甜圈。
+I can't believe Tom is getting married.	我不能相信汤姆要结婚了。
+I can't change what happened yesterday.	我没法改变昨天发生的事情。
+Sydney is the largest city in Australia.	悉尼是澳大利亞最大的城市。
+That man grabbed the young girl's wrist.	那個男人抓住了這個年輕女孩的手腕。
